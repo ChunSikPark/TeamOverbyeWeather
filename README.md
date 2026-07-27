@@ -111,7 +111,7 @@ arr.shape        # (time, variable, latitude, longitude)
 
 ## Documentation
 
-Full guides and API reference: **https://chunsikpark.github.io/Weather_data_GUI/**
+Full guides and API reference: **https://chunsikpark.github.io/TeamOverbyeWeather/**
 
 Point-and-click alternative: **https://weather-data-gui.pages.dev**
 
