@@ -16,3 +16,6 @@ demo_data/
 
 # Tooling state
 .omc/
+
+# VS Code Local History
+.history/
