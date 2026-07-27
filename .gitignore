@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+dist/
+build/
+*.egg-info/
+.ipynb_checkpoints/
+
+# Notebook output
+demo_data/
+
+# Credentials - never commit
+*.pypirc
+.pypirc
