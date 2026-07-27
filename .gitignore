@@ -13,3 +13,6 @@ demo_data/
 # Credentials - never commit
 *.pypirc
 .pypirc
+
+# Tooling state
+.omc/
